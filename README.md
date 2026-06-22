@@ -43,7 +43,6 @@ Sales Data Sample (Cleaned Dataset)
 - sales_data_cleaned.csv
 - task5_eda.ipynb
 - EDA_Report.pdf
-- screenshots/
 - README.md
 
 ## Outcome
